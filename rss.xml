@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Traffic]]></title>
+        <description><![CDATA[Traffic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 01:31:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Traffic are specialists in technical and industrial business strategy and marketing
+]]></title>
+            <description><![CDATA[<article><h1>Traffic are specialists in technical and industrial business strategy and marketing
+</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9cf9eda8fbfb590681b22b4fd733e9a612aa973.jpg"></article>]]></description>
+            <link>undefinedtraffic-are-specialists-in-technical-and-industrial-business/index.html</link>
+            <guid isPermaLink="false">f5ee8620-80b5-406b-be5b-78a9f347bfe8</guid>
+            <pubDate>Thu, 14 Jan 2016 01:31:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
