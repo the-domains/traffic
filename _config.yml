@@ -1,0 +1,28 @@
+name: Traffic
+favicon: null
+layout_spectrum: 0.4025946441106498
+typography_spectrum: 0.6563244012650102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8837991806212813
+  lightness: 0.660532871261239
+  saturation: 0.9733506836928427
+  rhythmicContrast: 0.0788971334695816
+purpose: []
